@@ -1,4 +1,4 @@
-# simple_sharethis
-Simple ShareThis - Custom Block Drupal 8.
+# simple_addthis
+Simple AddThis - Custom Block Drupal 8.
 
 ![Imgur](http://i.imgur.com/KmjOP3l.png?1)
