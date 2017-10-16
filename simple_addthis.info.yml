@@ -1,5 +1,5 @@
 name: Simple AddThis
 type: module
-description: Simple AddThis - Custom Block Drupal 8, Developed by <a href="https://www.linkedin.com/in/said-elfazni-3a329529" target="_blank">said el fazni</a> E-mail : <a href="mailto:elfazni@gmail.com">elfazni@gmail.com</a>.
+description: Simple AddThis - Custom Block Drupal 8, Developed by <a href="https://www.linkedin.com/in/said-elfazni-3a329529" target="_blank">said el fazni</a> E-mail <a href="mailto:elfazni@gmail.com">elfazni@gmail.com</a>.
 core: 8.x
 package: Simple AddThis
